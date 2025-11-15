@@ -1,0 +1,64 @@
+{
+    "result": [
+        {
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "gambar": "/img/atomic_habits.png"
+        },
+        {
+            "title": "Ayah",
+            "author": "Andrea Hirata",
+            "gambar": "/img/ayah.png"
+        },
+        {
+            "title": "Bumi",
+            "author": "Tere Liye",
+            "gambar": "/img/bumi.png"
+        },
+        {
+            "title": "Filosofi Teras",
+            "author": "Henry Manampiring",
+            "gambar": "/img/filosofi_teras.png"
+        },
+        {
+            "title": "Insecurity",
+            "author": "Alvi Syahrin",
+            "gambar": "/img/insecurity.png"
+        },
+        {
+            "title": "Laskar Pelangi",
+            "author": "Andrea Hirata",
+            "gambar": "/img/laskar_pelangi.png"
+        },
+        {
+            "title": "Laut Bercerita",
+            "author": "Leila S. Chudori",
+            "gambar": "/img/laut_bercerita.png"
+        },
+        {
+            "title": "Mariposa",
+            "author": "Luluk HF",
+            "gambar": "/img/mariposa.png"
+        },
+        {
+            "title": "Mindset",
+            "author": "Carol S. Dweck",
+            "gambar": "/img/mindset.png"
+        },
+        {
+            "title": "Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "gambar": "/img/sherlock_holmes.png"
+        },
+        {
+            "title": "The Psycology of Money",
+            "author": "Morgan Housel",
+            "gambar": "/img/the_psycology_of_money.png"
+        },
+        {
+            "title": "Who Moved My Cheese?",
+            "author": "Spencer Johnson",
+            "gambar": "/img/who_moved_my_cheese.png"
+        }
+    ]
+}

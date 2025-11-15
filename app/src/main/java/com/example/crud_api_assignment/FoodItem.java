@@ -2,10 +2,10 @@ package com.example.crud_api_assignment;
 
 public class FoodItem {
     String nama;
-    String asal;
-    String bahan;
-    String cara_buat;
-    String rasa;
+    String asal_daerah;
+    String bahan_utama;
+    String cara_membuat;
+    String cita_rasa;
     String gambar;
 
     public String getNama() {
@@ -16,36 +16,36 @@ public class FoodItem {
         this.nama = nama;
     }
 
-    public String getAsal() {
-        return asal;
+    public String getAsal_daerah() {
+        return asal_daerah;
     }
 
-    public void setAsal(String asal) {
-        this.asal = asal;
+    public void setAsal_daerah(String asal_daerah) {
+        this.asal_daerah = asal_daerah;
     }
 
-    public String getBahan() {
-        return bahan;
+    public String getBahan_utama() {
+        return bahan_utama;
     }
 
-    public void setBahan(String bahan) {
-        this.bahan = bahan;
+    public void setBahan_utama(String bahan_utama) {
+        this.bahan_utama = bahan_utama;
     }
 
-    public String getCara_buat() {
-        return cara_buat;
+    public String getCara_membuat() {
+        return cara_membuat;
     }
 
-    public void setCara_buat(String cara_buat) {
-        this.cara_buat = cara_buat;
+    public void setCara_membuat(String cara_membuat) {
+        this.cara_membuat = cara_membuat;
     }
 
-    public String getRasa() {
-        return rasa;
+    public String getCita_rasa() {
+        return cita_rasa;
     }
 
-    public void setRasa(String rasa) {
-        this.rasa = rasa;
+    public void setCita_rasa(String cita_rasa) {
+        this.cita_rasa = cita_rasa;
     }
 
     public String getGambar() {

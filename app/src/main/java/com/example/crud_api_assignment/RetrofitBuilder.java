@@ -28,7 +28,7 @@ public class RetrofitBuilder {
         Gson gson = gsonBuilder.create();
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://github.com/adndrsd1/crud-api-assignment")
+                .baseUrl("https://raw.githubusercontent.com/adndrsd1/crud-api-assignment/main/")
                 .client(okhttpBuilder.build())
                 .addConverterFactory(GsonConverterFactory.create(gson))
                 .build();
