@@ -1,0 +1,100 @@
+{
+    "result": [
+        {
+            "nama": "Bakso Malang",
+            "asal_daerah": "Malang, Jawa Timur",
+            "bahan_utama": "Daging sapi giling, tepung tapioka",
+            "cara_membuat": "Campur daging sapi giling dengan tepung tapioka, bumbu, dan air es. Bentuk menjadi bola-bola dan rebus hingga mengapung.",
+            "cita_rasa": "Gurih dan kenyal",
+            "gambar": "/img/bakso_malang.png"
+        },
+        {
+            "nama": "Gudeg",
+            "asal_daerah": "Yogyakarta, Daerah Istimewa Yogyakarta",
+            "bahan_utama": "Nangka muda, santan, gula merah",
+            "cara_membuat": "Rebus nangka muda dengan santan dan bumbu-bumbu hingga empuk dan berwarna coklat kemerahan.",
+            "cita_rasa": "Manis dan gurih",
+            "gambar": "/img/gudeg.png"
+        },
+        {
+            "nama": "Kapurung",
+            "asal_daerah": "Sulawesi Selatan",
+            "bahan_utama": "Sagu, ikan, sayuran",
+            "cara_membuat": "Masak sagu hingga menjadi bubur, campur dengan ikan dan sayuran yang telah dimasak.",
+            "cita_rasa": "Asam, pedas, dan segar",
+            "gambar": "/img/kapurung.png"
+        },
+        {
+            "nama": "Kerak Telor",
+            "asal_daerah": "DKI Jakarta",
+            "bahan_utama": "Beras ketan, telur, ebi, kelapa parut",
+            "cara_membuat": "Campur beras ketan yang sudah dimasak dengan telur, ebi, dan kelapa parut, lalu goreng di atas bara api hingga matang.",
+            "cita_rasa": "Gurih dan renyah",
+            "gambar": "/img/kerak_telor.png"
+        },
+        {
+            "nama": "Mie Aceh",
+            "asal_daerah": "Aceh",
+            "bahan_utama": "Mie kuning, daging sapi atau seafood, bumbu rempah",
+            "cara_membuat": "Tumis bumbu rempah, masukkan daging atau seafood, lalu tambahkan mie kuning dan kuah kaldu.",
+            "cita_rasa": "Pedas dan gurih",
+            "gambar": "/img/mie_aceh.png"
+        },
+        {
+            "nama": "Papeda",
+            "asal_daerah": "Papua",
+            "bahan_utama": "Sagu, ikan kuah kuning",
+            "cara_membuat": "Masak sagu dengan air hingga kental, sajikan dengan ikan kuah kuning yang berbumbu rempah.",
+            "cita_rasa": "Netral dengan kuah ikan yang gurih",
+            "gambar": "/img/papeda.png"
+        },
+        {
+            "nama": "Pempek",
+            "asal_daerah": "Palembang, Sumatera Selatan",
+            "bahan_utama": "Ikan tenggiri, tepung sagu",
+            "cara_membuat": "Campur ikan tenggiri yang sudah dihaluskan dengan tepung sagu, bentuk sesuai selera, lalu rebus dan goreng. Sajikan dengan kuah cuka.",
+            "cita_rasa": "Gurih dan sedikit asam",
+            "gambar": "/img/pempek.png"
+        },
+        {
+            "nama": "Rawon",
+            "asal_daerah": "Jawa Timur",
+            "bahan_utama": "Daging sapi, kluwek, bumbu rempah",
+            "cara_membuat": "Rebus daging sapi dengan bumbu rempah dan kluwek hingga empuk. Sajikan dengan nasi dan pelengkap.",
+            "cita_rasa": "Gurih dengan rasa khas kluwek",
+            "gambar": "/img/rawon.png"
+        },
+        {
+            "nama": "Rendang",
+            "asal_daerah": "Padang, Sumatera Barat",
+            "bahan_utama": "Daging sapi, santan, bumbu rempah",
+            "cara_membuat": "Masak daging sapi dengan santan dan bumbu rempah dalam waktu lama hingga empuk dan bumbu meresap.",
+            "cita_rasa": "Pedas, gurih, dan kaya rempah",
+            "gambar": "/img/rendang.png"
+        },
+        {
+            "nama": "Sate Lilit",
+            "asal_daerah": "Bali",
+            "bahan_utama": "Ikan cincang, kelapa parut, bumbu rempah",
+            "cara_membuat": "Campur ikan cincang dengan kelapa parut dan bumbu rempah, lilitkan pada batang serai, lalu bakar hingga matang.",
+            "cita_rasa": "Gurih dan aromatik",
+            "gambar": "/img/sate_lilit.png"
+        },
+        {
+            "nama": "Sop Konro",
+            "asal_daerah": "Makassar, Sulawesi Selatan",
+            "bahan_utama": "Iga sapi, bumbu rempah",
+            "cara_membuat": "Rebus iga sapi dengan bumbu rempah hingga empuk. Sajikan dengan kuah kaldu yang kaya rasa.",
+            "cita_rasa": "Gurih dan kaya rempah",
+            "gambar": "/img/sop_konro.png"
+        },
+        {
+            "nama": "Soto Banjar",
+            "asal_daerah": "Banjarmasin, Kalimantan Selatan",
+            "bahan_utama": "Daging ayam, bihun, bumbu rempah",
+            "cara_membuat": "Rebus daging ayam dengan bumbu rempah, tambahkan bihun dan pelengkap lainnya saat penyajian.",
+            "cita_rasa": "Segar dan gurih",
+            "gambar": "/img/soto_banjar.png"
+        }
+    ]
+}
